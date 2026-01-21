@@ -17,3 +17,4 @@ This project applies Machine Learning techniques to financial data. Using histor
 ## How to Run
 1.  Install dependencies: `pip install -r requirements.txt`
 2.  Run the notebook: `jupyter notebook stock_prediction.ipynb`
+![Graph of Results](result_graph.png)
